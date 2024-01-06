@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="Ja">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>福岡アートマップ</title>
+    <link rel="stylesheet" type="text/css" href="sub.css" />
+    
+</head>
+
+
+<body>
+    <p class="in">
+        <img src="komainu.jpg" alt="キービジュアル">
+     </p>
+
+        <h1>大名の大狛犬</h1>
+        <p style="text-align: center;font-size: 100%;">中村 弘峰</p>
+
+        <p class="scroll">
+            <img src="komainu1.jpg">
+            <img src="komainu2.jpg">
+            <img src="komainu3.jpg">
+            <img src="komainu4.jpg">
+    
+
+        </p>
+        <p style="margin-top: 100px;margin-bottom: 100px;text-align: center;">
+            博多人形の老舗「中村人形」。『大名の大狛犬』は中村人形4代目の中村弘峰氏が制作した。<br>
+            福岡の都心にできた新たなランドマーク「福岡大名ガーデンシティ」。「この狛犬の上で、<br>
+            登ったりはしゃいだりして遊んでもらいたい」と作者はコメントしているように、緑豊かな<br>
+            福岡大名ガーデンシティ・パークにふさわしいモニュメントとして、大名の森に住む守り神<br>
+            をコンセプトにデザインされた。子供たちが登ったり、寝転んだり、触れて遊べる遊具とし<br>
+            て考えられ、他のアート作品とは一味違う、積極的に触れることができる「コミュニケーシ<br>
+            ョンアート」だ。「この狛犬の上で、登ったりはしゃいだりして遊んでもらいたい」と作者<br>
+            はコメントしている。日本独自の存在である狛犬とザ・リッツ・カールトンのエンブレムで<br>
+            もあるライオンを一対の守り神として、創作された。大名の新しいシンボルになる作品だ。
+        
+        </p>
+
+        <p class="map">
+            <iframe src="https://www.google.com/maps/d/embed?mid=17V2pylRrIeIiScMcHg0FUpBlYWha3ZQ&ehbc=2E312F" width="640" height="480"></iframe>
+        </p>  
+
+            <div class="bob">
+                <a href="index.html"><img src="top.jpg" alt="トップページへ"
+                    width="150"></a>
+                </div>
+
+    
+</body>
+</html>
