@@ -1,0 +1,60 @@
+body{
+    background-color:white
+    
+    
+}
+
+.in{text-align:center;
+
+}
+
+.in img { width: 80vw; 
+    margin-bottom: 10px;
+    
+
+}
+h1{
+    font-size: 150%;
+    text-align: center;
+    margin-top: 10px;
+}
+.scroll{
+    display:flex;
+overflow-x:scroll;
+
+text-align:center;
+
+}
+.scroll img{
+    width:35vw;
+padding:2vw;
+margin: 30px;
+
+}
+@media only screen and (min-device-width: 1000px)
+{
+    .scroll img{
+        width:16em;
+padding:0.5em;
+    }
+}
+.map{
+    text-align: center;
+margin-top: 170px;
+margin-bottom: 100px;
+}
+.bob{
+    text-align:center;
+    margin-top: 170px;
+}
+.box {
+    display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+    margin-top: 170px;
+    margin-bottom: 170px;
+}
+.box img{
+width:20vw;
+margin: 5px;
+}
